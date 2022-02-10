@@ -21,7 +21,7 @@
 
     <properties>
         <java-version>1.8</java-version>
-        <hibernate.version>5.2.1.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <flyway.version>5.0.0</flyway.version>
         <angularjs.version>1.4.14</angularjs.version>
